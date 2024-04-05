@@ -1,0 +1,34 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: black;
+  color: white;
+}
+
+.card {
+  background: #222;
+  border: 2px solid white;
+  color: rgba(250, 250, 250, 0.8);
+  margin-bottom: 2rem;
+  margin: 0px auto;
+}
+
+#gambar {
+  width: 500px;
+  margin-top: -30px;
+}
+
+#box {
+  width: auto;
+  height: 188px;
+  background: black;
+  border: 5px solid white;
+}
+
+li {
+  list-style: none;
+}
+
+#footer {
+  color: white;
+  background-color: black;
+}
